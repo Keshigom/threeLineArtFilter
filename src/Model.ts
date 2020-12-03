@@ -1,7 +1,6 @@
 import * as THREE from 'three'
-import { VRM, VRMSchema } from '@pixiv/three-vrm'
+import { VRM } from '@pixiv/three-vrm'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
-import { NumberKeyframeTrack } from 'three';
 
 export class Model {
 
